@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieziemegh.jackchampagne.com/sitemap.xml
